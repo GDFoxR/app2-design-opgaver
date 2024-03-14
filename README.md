@@ -1,15 +1,24 @@
 # Learning outcome
-Knowledge about algorithms, datastructure and common programming paradigme. 
+
+Knowledge about algorithms, datastructure and common programming paradigme.
 
 ## Purpose
-The purpose of this branch is to test your knowledge about algorithm, datastructure and programming paradigm. 
+
+The purpose of this branch is to test your knowledge about algorithm, datastructure and programming paradigm.
 
 ## Goal
-This gives you a indication of wether you have a sufficient understanding of the subjects and wether you should be aware of some pit in your knowledge. 
 
+This gives you a indication of wether you have a sufficient understanding of the subjects and wether you should be aware of some pit in your knowledge.
 
 # Part 1 - Algorithms
+
 ## What is the key difference between a functions and algorithm?
+
+<!-- The key difference between a function and an algorithm is in their definition and purpose.
+
+A function is a piece of code designed to perform a specific task; it takes some input, processes it, and returns an output. Functions are building blocks in programming that allow for code reuse, modularity, and organization.
+
+An algorithm, on the other hand, is a step-by-step procedure or formula for solving a problem. It is a conceptual idea independent of programming languages, focusing on the logic behind solving a specific problem. An algorithm can be implemented through one or more functions in a programming language, but its essence lies in the methodology and steps taken to reach a solution. -->
 
 ## The following code example, why is it a algorithm and why is it not?
 
@@ -72,7 +81,18 @@ Box = [
 
 Solve()
 print(np.matrix(Box))
-    
+
+
+
+
+
+# Backtracking is an algorithmic paradigm that solves optimization and search problems by trying all possible solutions, and then backtracking and trying other solutions if the current solution does not work.
+
+# In the case of the Sudoku solving program, the algorithm starts by trying to fill in a single cell in the puzzle with a possible value. If the program is able to solve the puzzle using that value, it moves on to the next cell. If it is not able to solve the puzzle using that value, it backtracks and tries another value for the current cell.
+
+# The algorithm continues trying different values for different cells until it is able to solve the puzzle, or until it runs out of possible values for all cells.
+
+
 
 
 ```
@@ -81,7 +101,7 @@ print(np.matrix(Box))
 
 ## What is the primary difference between datastructure and datatypes?
 
-## Name three datastructures 
+## Name three datastructures
 
 ### What are the strength
 
