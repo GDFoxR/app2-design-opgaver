@@ -101,7 +101,19 @@ print(np.matrix(Box))
 
 ## What is the primary difference between datastructure and datatypes?
 
+<!-- A data structure is a way of organizing and storing data in a computer so that it can be accessed and modified efficiently. It defines the layout of the data in memory, including the type and number of variables, their relationships to each other, and how they are accessed.
+
+A data type, on the other hand, is a specific format for data, such as an integer, string, or floating-point number. It defines the properties and characteristics of the data, such as its size, range of values, and allowed operations.
+
+In summary, data structures define the organization of data in memory, while data types define the format of the data. -->
+
 ## Name three datastructures
+
+Array
+
+Queue
+
+Tree
 
 ### What are the strength
 
